@@ -3,8 +3,8 @@
 This coding problem was one that took inspiration from the YouTuber [AiFlux](https://www.youtube.com/user/aiflux). I've refined upon the problem statement in a few ways briefly outlined in [What Changed, and Why?](#what-changed-and-why). It contains three files:
 
 - [Circle_Problem_Prompt.pdf]() is the refined problem statement typed up in [Overleaf](https://www.overleaf.com/)
-- [circle-problem-solution.pdf]() is the exported .pfd version of my [Jupyter Notebook](https://jupyter.org/) code
-- [circle-problem-solution.ipynb]() the coded solution using Jupyter Notebook it also includes an [Interactive Tool](#interactive-tool) where you can drag a slider that snaps circles to the next radial point from the origin and a button that randomizes new sets of data.
+- [circle-problem-solution.pdf](./docs/circle-problem-solution.pdf) is the exported .pdf version of my [Jupyter Notebook](https://jupyter.org/) code
+- [circle-problem-solution.ipynb](./src/circle-problem-solution.ipynb) the coded solution using Jupyter Notebook it also includes an [Interactive Tool](#interactive-tool) where you can drag a slider that snaps circles to the next radial point from the origin and a button that randomizes new sets of data.
 
 This repo assumes you have sufficient knowledge on how to install all the needed packages like Numpy etc. If the coded solution can't run in Jupyter for you and you're unsure how to run the code, then just ask Chat GPT.
 
