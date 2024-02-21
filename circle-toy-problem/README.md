@@ -21,5 +21,8 @@ The interactive tool will generate a random set of data points for you based on 
 ![Circle Drawing Demo](./assets/circle-gui-demo.gif)
 
 
-# Problem Statement  Preview (See more under ./docs/Circle_Problem_Prompt.pdf)
+# Problem Statement  Preview
+note: (See more under ./docs/Circle_Problem_Prompt.pdf)
+
+
 
