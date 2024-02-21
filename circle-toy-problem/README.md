@@ -19,3 +19,7 @@ This repo assumes you have sufficient knowledge on how to install all the needed
 The interactive tool will generate a random set of data points for you based on some initial conditions you can play with such as `low`, `high`, and `label_space`. It includes a slider for expanding/contracting the circle, and a button to generate a new plot with a different set of data points.
 
 ![Circle Drawing Demo](./assets/circle-gui-demo.gif)
+
+
+# Problem Statement  Preview (See more under ./docs/Circle_Problem_Prompt.pdf)
+
