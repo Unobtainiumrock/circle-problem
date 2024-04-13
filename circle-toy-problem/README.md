@@ -10,6 +10,9 @@ This repo assumes you have sufficient knowledge on how to install all the needed
 
 # What changed, and Why?
 
+The original problem never stated the specifics of the problem space or defined it in a mathematically rigorous way. It was simply asked as a prompt to an LLM by the YouTuber [AiFlux](https://www.youtube.com/user/aiflux) as a means of evaluating it reasoning skills. He didn't spend much time going deeply into
+how the model was attempting to solve it. At the time, I was preparing to interview candidates for positions on a project with NIST and decided that this would be a good question to ask them. Changes are listed below.
+
 1. I restricted the space of potential circles since in theory, the circles could just get infinitesimally closer to the dots without actually touching or passing the threshold to enclose a duplicate point. At that point it would shift the focus of the problem away from what I believe was the original spirit of it and more towards one about floating point precision.
 
 2. Points that lie on the radial shell/boundary of the circle will be considered members of that particular circle. This one may not be a change, since its possible that this part was already incorporated into his original problem statement. I've initially assumed that he didn't include this part.
