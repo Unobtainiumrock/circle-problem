@@ -25,7 +25,7 @@ The interactive tool will generate a random set of data points for you based on 
 
 
 # Problem Statement  Preview
-note: (See more under ./docs/Circle_Problem_Prompt.pdf)
+note: (See more under ./docs/Circle_Problem.pdf)
 
 ![Overleaf Problem Statement Preview](./assets/overleaf-problem-preview.png)
 
